@@ -33,6 +33,6 @@ cd TodoWebApp
 ./gradlew bootRun
 ```
 
-I am rendering home.html page with thymeleaf, all the above requests can be made with that html page (using fetch with JS to perform requests and DOM operations)
+I am rendering `home.html` page with thymeleaf, all the above requests can be made with that html page (using fetch with JS to perform requests and DOM operations)
 
 I have also added postman exported json collection, [click here](https://raw.githubusercontent.com/TanimSk/springBootTodoApp/main/CseRuTodoList.postman_collection.json) to download.
