@@ -27,7 +27,7 @@ spring init --java-version=22 \
 # To install this project
 
 ```
-git clone https:
+git clone https://github.com/TanimSk/springBootTodoApp
 cd TodoWebApp
 ./gradlew clean build
 ./gradlew bootRun
